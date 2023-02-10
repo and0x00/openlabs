@@ -1,0 +1,13 @@
+version: '1'
+name: insecure-transport
+services:
+  apache:
+    image: 'ubuntu-apache2'
+    build: .
+    container_name: app
+    restart: always
+    ports:
+      - '80:80'
+      - '443:443'
+    volumes:
+      - ./app:/var/www/html
