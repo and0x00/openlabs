@@ -42,7 +42,7 @@ You can modify the Docker Compose files and templates to suit your needs. Each l
 Feel free to fork this repository and submit pull requests with improvements or new labs.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ___
 
