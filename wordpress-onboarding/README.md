@@ -21,7 +21,7 @@ Before you begin, ensure you have the following installed:
 
 <h3 align="center">
 <a href="https://donate.stripe.com/7sI29z9js2draModQR">
-  <img src="../static/under-construction.png" alt="Under Construction" width="150" />
+  <img src="../_static/under-construction.png" alt="Under Construction" width="150" />
 </a>
 </h3>
 
