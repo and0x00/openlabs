@@ -1,4 +1,7 @@
-# OpenLabs 🧪
+<h1 align="center">
+  <br>
+  <a href="https://github.com/and0x00/openlabs"><img src="_static/openlabs-logo.png" height="70px" alt="Open Labs 🧪"></a>
+</h1>
 
 **OpenLabs** is a repository that provides easily deployable cybersecurity labs using Docker Compose. Each lab consists of Docker containers designed to simulate real-world security scenarios, offering a practical environment for study and testing.
 
